@@ -3,6 +3,21 @@
 #
 
 # terminal emulator
+
+super + shift + Return
+  ~/.local/scripts/scratchpad.sh
+  
+
+
+#   ~/Scripts/Scratchpad.sh title terminal-scratchpad st -n terminal-scratchpad -g 160x50 -e tmux 
+
+
+
+
+
+
+
+
 super + Return
         st
         alacritty
