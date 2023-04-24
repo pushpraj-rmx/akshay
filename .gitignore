@@ -1,4 +1,7 @@
+# hide all files and folders 
+
 *.*
 */*
+!.gitignore
 
-!./gitignore
+# will add files manually now
