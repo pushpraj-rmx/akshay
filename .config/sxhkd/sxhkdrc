@@ -19,6 +19,7 @@ super + shift + Return
 
 
 super + Return
+        xfce4-terminal
         st
         alacritty
         urxvt
@@ -41,7 +42,7 @@ super + shift + {Escape,r}
 	bspc {quit,wm -r}
 
 # close and kill
-super + {_,shift + }w
+super + {_,shift + }q
 	bspc node -{c,k}
 
 # alternate between the tiled and monocle layout
